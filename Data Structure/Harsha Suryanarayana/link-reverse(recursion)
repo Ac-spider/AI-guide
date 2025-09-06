@@ -1,6 +1,6 @@
 void Reverse(Node *p){
     if(p -> next==NULL){
-        printf("\n");
+        head = p;
         return;
     }
     Reverse (p->next);
