@@ -1,0 +1,10 @@
+void Reverse(Node *p){
+    if(p -> next==NULL){
+        printf("\n");
+        return;
+    }
+    Reverse (p->next);
+    Node *q = p -> next;
+    q -> next = p;
+    p -> next = NULL
+}
