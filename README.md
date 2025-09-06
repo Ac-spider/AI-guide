@@ -1,5 +1,4 @@
-# AI-guide
-# 🤖 AI-Tour: A Learning Journey
+# 🤖 AI-Guide: A Learning Journey
 
 ![Status](https://img.shields.io/badge/Status-In%20Progress-blue)
 ![License](https://img.shields.io/badge/License-MIT-green)
