@@ -6,5 +6,5 @@ void Reverse(Node *p){
     Reverse (p->next);
     Node *q = p -> next;
     q -> next = p;
-    p -> next = NULL
+    p -> next = NULL;
 }
